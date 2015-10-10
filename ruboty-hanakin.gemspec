@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{花金だーワッショーイ！テンションAGEAGEマック}
   spec.description   = %q{花金だーワッショーイ！テンションAGEAGEマック inspired by https://github.com/toshimaru/hubot-hanakin}
-  spec.homepage      = "https://github/tacahilo/ruboty-hanakin"
+  spec.homepage      = "https://github.com/tacahilo/ruboty-hanakin"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
