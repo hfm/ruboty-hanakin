@@ -1,4 +1,5 @@
 # Ruboty::Hanakin
+[![Gem Version](https://badge.fury.io/rb/ruboty-hanakin.svg)](https://badge.fury.io/rb/ruboty-hanakin)
 
 花金だーワッショーイ！テンションAGEAGEマック
 
