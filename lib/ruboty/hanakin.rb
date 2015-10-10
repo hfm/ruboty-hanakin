@@ -1,5 +1,2 @@
-module Ruboty
-  module Hanakin
-    # Your code goes here...
-  end
-end
+require "ruboty"
+require "ruboty/handlers/hanakin"
